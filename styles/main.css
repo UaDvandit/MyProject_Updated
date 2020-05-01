@@ -325,8 +325,8 @@ table {
 }
 
 .content_center .block_how-works .three_img_flex .center_img {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(..image/car.png);
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%),  url(..image/car.png);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(../image/car.png);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%),  url(../image/car.png);
 }
 
 .content_center .block_how-works .three_img_flex .right_img {
@@ -444,7 +444,7 @@ table {
 .content_center .partners-block .four_partners_flex .avatar1, .content_center .partners-block .four_partners_flex .avatar2, .content_center .partners-block .four_partners_flex .avatar3, .content_center .partners-block .four_partners_flex .avatar4 {
   width: 120px;
   height: 120px;
-  background: url(/image/avatar1.png), #D8D8D8;
+  background: url(../image/avatar1.png), #D8D8D8;
   border-radius: 60px;
   margin: 0 auto;
   display: -webkit-box;
@@ -488,7 +488,7 @@ table {
 }
 
 .content_center .partners-block .four_partners_flex .avatar2 {
-  background: url(/image/avatar2.png), #D8D8D8;
+  background: url(../image/avatar2.png), #D8D8D8;
 }
 
 .content_center .partners-block .four_partners_flex .avatar2 .green-paint {
@@ -496,7 +496,7 @@ table {
 }
 
 .content_center .partners-block .four_partners_flex .avatar3 {
-  background: url(/image/avatar3.png), #D8D8D8;
+  background: url(../image/avatar3.png), #D8D8D8;
 }
 
 .content_center .partners-block .four_partners_flex .avatar3 .orange-camera {
@@ -504,7 +504,7 @@ table {
 }
 
 .content_center .partners-block .four_partners_flex .avatar4 {
-  background: url(/image/avatar4.png), #D8D8D8;
+  background: url(../image/avatar4.png), #D8D8D8;
 }
 
 .content_center .partners-block .four_partners_flex .avatar4 .blue-plane {
@@ -649,8 +649,8 @@ table {
 .content_center .discover-some-img .img-top-1, .content_center .discover-some-img .img-top-2, .content_center .discover-some-img .img-top-3 {
   width: 300px;
   height: 310px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.185)), to(rgba(3, 3, 3, 0.219))), url(/image/sports.png);
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.185) 0%, rgba(3, 3, 3, 0.219) 100%), url(/image/sports.png);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.185)), to(rgba(3, 3, 3, 0.219))), url(../image/sports.png);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.185) 0%, rgba(3, 3, 3, 0.219) 100%), url(../image/sports.png);
   background-size: cover;
   border-radius: 4px;
   display: -webkit-box;
@@ -669,13 +669,13 @@ table {
 }
 
 .content_center .discover-some-img .img-top-2 {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/het.png);
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/het.png);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/het.png);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/het.png);
 }
 
 .content_center .discover-some-img .img-top-3 {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/extream.png);
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/extream.png);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/extream.png);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/extream.png);
 }
 
 .content_center .discover-some-img .text-into {
@@ -698,8 +698,8 @@ table {
 .content_center .discover-some-img .img-center-1, .content_center .discover-some-img .img-center-2 {
   width: 300px;
   height: 310px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/games.png);
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/games.png);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/games.png);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/games.png);
   background-size: cover;
   border-radius: 4px;
   display: -webkit-box;
@@ -720,15 +720,15 @@ table {
 .content_center .discover-some-img .img-center-2 {
   width: 620px;
   height: 310px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/culture.png);
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/culture.png);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/culture.png);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/culture.png);
 }
 
 .content_center .discover-some-img .img-bottom-1, .content_center .discover-some-img .img-bottom-2 {
   width: 620px;
   height: 310px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/massage.png);
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/massage.png);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/massage.png);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/massage.png);
   background-size: cover;
   border-radius: 4px;
   display: -webkit-box;
@@ -749,8 +749,8 @@ table {
 .content_center .discover-some-img .img-bottom-2 {
   width: 300px;
   height: 310px;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/we.png);
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/we.png);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/we.png);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/we.png);
 }
 
 .content_center .some-form {
@@ -928,15 +928,15 @@ table {
   margin: 7px auto 0;
   width: 110px;
   height: 24px;
-  background-image: url(/image/sed.png);
+  background-image: url(../image/sed.png);
 }
 
 @media screen and (max-width: 960px) {
   .head_img {
     width: 100%;
     height: 700px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(/image/Bitmap2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(/image/Bitmap2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(../image/Bitmap2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(../image/Bitmap2.png);
     background-size: cover;
     background-position: center;
   }
@@ -966,18 +966,18 @@ table {
   }
   .content_center .block_how-works .three_img_flex .left_img, .content_center .block_how-works .three_img_flex .center_img, .content_center .block_how-works .three_img_flex .right_img {
     width: 236px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(/image/laptop2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(/image/laptop2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(../image/laptop2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(../image/laptop2.png);
   }
   .content_center .block_how-works .three_img_flex .center_img {
     width: 236px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(/image/car2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(/image/car2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(../image/car2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(../image/car2.png);
   }
   .content_center .block_how-works .three_img_flex .right_img {
     width: 236px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(/image/beach2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(/image/beach2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(../image/beach2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(../image/beach2.png);
   }
   .content_center .block_how-works .three_img_flex .mg-25 {
     width: 196px;
@@ -1144,18 +1144,18 @@ table {
   }
   .content_center .discover-some-img .three-column-block .img-top-1, .content_center .discover-some-img .three-column-block .img-top-2, .content_center .discover-some-img .three-column-block .img-top-3 {
     width: 236px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.185)), to(rgba(3, 3, 3, 0.219))), url(/image/sports2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.185) 0%, rgba(3, 3, 3, 0.219) 100%), url(/image/sports2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.185)), to(rgba(3, 3, 3, 0.219))), url(../image/sports2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.185) 0%, rgba(3, 3, 3, 0.219) 100%), url(../image/sports2.png);
   }
   .content_center .discover-some-img .three-column-block .img-top-2 {
     width: 236px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/Healath2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/Healath2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/Healath2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/Healath2.png);
   }
   .content_center .discover-some-img .three-column-block .img-top-3 {
     width: 236px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/extreme2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/extreme2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/extreme2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/extreme2.png);
   }
   .content_center .discover-some-img .three-column-block .text-into {
     display: block;
@@ -1177,8 +1177,8 @@ table {
   .content_center .discover-some-img .three-column-block .img-center-1, .content_center .discover-some-img .three-column-block .img-center-2 {
     width: 236px;
     height: 310px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/games2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/games2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/games2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/games2.png);
     background-size: cover;
     border-radius: 4px;
     display: -webkit-box;
@@ -1198,14 +1198,14 @@ table {
   .content_center .discover-some-img .three-column-block .img-center-2 {
     width: 492px;
     height: 310px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/culture2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/culture2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/culture2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/culture2.png);
   }
   .content_center .discover-some-img .three-column-block .img-bottom-1, .content_center .discover-some-img .three-column-block .img-bottom-2 {
     width: 492px;
     height: 310px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/massage2.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/massage2.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/massage2.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/massage2.png);
     background-size: cover;
     border-radius: 4px;
     display: -webkit-box;
@@ -1225,8 +1225,8 @@ table {
   .content_center .discover-some-img .three-column-block .img-bottom-2 {
     width: 236px;
     height: 310px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/we.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/we.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/we.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/we.png);
   }
   .end {
     margin: 100px auto 20px;
@@ -1270,8 +1270,8 @@ table {
 @media screen and (max-width: 765px) {
   .head_img {
     height: 540px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(/image/Bitmap3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(/image/Bitmap3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(../image/Bitmap3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(../image/Bitmap3.png);
     background-size: 100% 100%;
   }
   .head_img .flex_space-btw {
@@ -1350,18 +1350,18 @@ table {
   .content_center .block_how-works .three_img_flex .left_img, .content_center .block_how-works .three_img_flex .center_img, .content_center .block_how-works .three_img_flex .right_img {
     width: 300px;
     height: 240px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(/image/laptop3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(/image/laptop3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(../image/laptop3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(../image/laptop3.png);
   }
   .content_center .block_how-works .three_img_flex .center_img {
     height: 240px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(/image/car3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(/image/car3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(../image/car3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(../image/car3.png);
   }
   .content_center .block_how-works .three_img_flex .right_img {
     height: 240px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(/image/beach3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(/image/beach3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.6))), url(../image/beach3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, rgba(0, 0, 0, 0.6) 100%), url(../image/beach3.png);
   }
   .content_center .block_how-works .three_img_flex .mg-25 {
     width: 250px;
@@ -1527,44 +1527,44 @@ table {
   .content_center .discover-some-img .three-column-block .img-top-1, .content_center .discover-some-img .three-column-block .img-top-2, .content_center .discover-some-img .three-column-block .img-top-3 {
     width: 300px;
     height: 120px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.185)), to(rgba(3, 3, 3, 0.219))), url(/image/sports3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.185) 0%, rgba(3, 3, 3, 0.219) 100%), url(/image/sports3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.185)), to(rgba(3, 3, 3, 0.219))), url(../image/sports3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.185) 0%, rgba(3, 3, 3, 0.219) 100%), url(../image/sports3.png);
   }
   .content_center .discover-some-img .three-column-block .img-top-2 {
     width: 300px;
     height: 120px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/Healath3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/Healath3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/Healath3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/Healath3.png);
   }
   .content_center .discover-some-img .three-column-block .img-top-3 {
     height: 120px;
     width: 300px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/extreme3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/extreme3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/extreme3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/extreme3.png);
   }
   .content_center .discover-some-img .three-column-block .img-center-1, .content_center .discover-some-img .three-column-block .img-center-2 {
     height: 120px;
     width: 300px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/games3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/games3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/games3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/games3.png);
   }
   .content_center .discover-some-img .three-column-block .img-center-2 {
     height: 120px;
     width: 300px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/culture3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/culture3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/culture3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/culture3.png);
   }
   .content_center .discover-some-img .three-column-block .img-bottom-1, .content_center .discover-some-img .three-column-block .img-bottom-2 {
     height: 120px;
     width: 300px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/massage3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/massage3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/massage3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/massage3.png);
   }
   .content_center .discover-some-img .three-column-block .img-bottom-2 {
     height: 120px;
     width: 300px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(/image/we3.png);
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(/image/we3.png);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.158)), to(rgba(3, 3, 3, 0.185))), url(../image/we3.png);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.158) 0%, rgba(3, 3, 3, 0.185) 100%), url(../image/we3.png);
   }
   .content_center .some-form {
     width: 280px;
@@ -1697,6 +1697,6 @@ table {
     margin: 7px auto 0;
     width: 110px;
     height: 24px;
-    background-image: url(/image/sed.png);
+    background-image: url(../image/sed.png);
   }
 }
